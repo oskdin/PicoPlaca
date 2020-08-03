@@ -1,5 +1,6 @@
 ﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Default.master.cs" Inherits="Web.Default" %>
 
+
 <!DOCTYPE html>
 <html lang="es">
 <head runat="server">
@@ -7,8 +8,8 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <meta name="description" content="Viaja a Ecuador">
-    <meta name="author" content="E. Mora">
+    <meta name="description" content="Pico y Placa Quito">
+    <meta name="author" content="Oskdin">
     <link rel="icon" href="img/favicon.ico">
     <title>Pico y Placa</title>
     <asp:ContentPlaceHolder ID="head" runat="server">
@@ -49,11 +50,12 @@
     <!-- FOOTER -->
     <footer>
         <p class="pull-right"><a href="#">Regresar arriba</a></p>
-        <p>&copy; 2020 Pico y placa Ecuador.</p>
+        <p>&copy; 2020 Pico y placa Quito.</p>
     </footer>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
     <script src="js/bootstrap.min.js"></script>
+    <script src="js/control.js"></script>
     <!-- Sombrear botón activo del menú -->
     <script>
         var url = window.location;
