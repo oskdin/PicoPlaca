@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>D:\Proyectos\Publicacion</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/Web.dll">
+      <publishTime>08/03/2020 23:28:05</publishTime>
+    </File>
+    <File Include="bin/Web.pdb">
+      <publishTime>08/03/2020 23:28:05</publishTime>
+    </File>
+    <File Include="css/bootstrap.css">
+      <publishTime>08/03/2020 23:15:45</publishTime>
+    </File>
+    <File Include="css/carousel.css">
+      <publishTime>08/03/2020 23:15:45</publishTime>
+    </File>
+    <File Include="css/estilos.css">
+      <publishTime>08/03/2020 23:15:45</publishTime>
+    </File>
+    <File Include="Default.Master">
+      <publishTime>08/03/2020 23:15:45</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.eot">
+      <publishTime>08/03/2020 23:15:45</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.svg">
+      <publishTime>08/03/2020 23:15:45</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>08/03/2020 23:15:45</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.woff">
+      <publishTime>08/03/2020 23:15:45</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.woff2">
+      <publishTime>08/03/2020 23:15:45</publishTime>
+    </File>
+    <File Include="img/AGENTE-681x341.jpg">
+      <publishTime>08/03/2020 23:15:45</publishTime>
+    </File>
+    <File Include="img/fecha-importante.jpg">
+      <publishTime>08/03/2020 23:15:45</publishTime>
+    </File>
+    <File Include="img/hora.jpg">
+      <publishTime>08/03/2020 23:15:45</publishTime>
+    </File>
+    <File Include="img/plate.jpg">
+      <publishTime>08/03/2020 23:15:45</publishTime>
+    </File>
+    <File Include="index.aspx">
+      <publishTime>08/03/2020 23:15:45</publishTime>
+    </File>
+    <File Include="js/bootstrap.js">
+      <publishTime>08/03/2020 23:15:45</publishTime>
+    </File>
+    <File Include="js/bootstrap.min.js">
+      <publishTime>08/03/2020 23:15:45</publishTime>
+    </File>
+    <File Include="js/control.js">
+      <publishTime>08/03/2020 23:15:45</publishTime>
+    </File>
+    <File Include="js/npm.js">
+      <publishTime>08/03/2020 23:15:45</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>08/03/2020 23:28:06</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
