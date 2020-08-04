@@ -89,3 +89,12 @@ footer a:hover{
 .row.contacto input {
     width: 70%;
 }
+
+input:invalid {
+    border-color: red;
+}
+
+input,
+input:valid {
+    border-color: #ccc;
+}
