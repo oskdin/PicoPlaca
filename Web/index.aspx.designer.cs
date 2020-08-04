@@ -15,13 +15,22 @@ namespace Web
     {
 
         /// <summary>
-        /// NumPlate control.
+        /// btnMensaje6 control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.HtmlControls.HtmlInputText NumPlate;
+        protected global::System.Web.UI.WebControls.Button btnMensaje6;
+
+        /// <summary>
+        /// txtPlacaVeiculo control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.TextBox txtPlacaVeiculo;
 
         /// <summary>
         /// RequiredFieldValidator1 control.
@@ -33,13 +42,13 @@ namespace Web
         protected global::System.Web.UI.WebControls.RequiredFieldValidator RequiredFieldValidator1;
 
         /// <summary>
-        /// fecha control.
+        /// txtFecha control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.HtmlControls.HtmlInputGenericControl fecha;
+        protected global::System.Web.UI.WebControls.TextBox txtFecha;
 
         /// <summary>
         /// RequiredFieldValidator2 control.
@@ -51,13 +60,13 @@ namespace Web
         protected global::System.Web.UI.WebControls.RequiredFieldValidator RequiredFieldValidator2;
 
         /// <summary>
-        /// hora control.
+        /// txtHora control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.HtmlControls.HtmlInputGenericControl hora;
+        protected global::System.Web.UI.WebControls.TextBox txtHora;
 
         /// <summary>
         /// RequiredFieldValidator3 control.

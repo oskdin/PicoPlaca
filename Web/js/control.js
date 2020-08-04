@@ -8,3 +8,7 @@
     $("#txtIP").mask('099.099.099.099');
 });
 
+function alerta(numero) {
+    alert('Se ha presionado el boton: ' + numero);
+}
+
